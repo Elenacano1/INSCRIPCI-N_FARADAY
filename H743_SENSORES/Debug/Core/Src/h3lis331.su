@@ -1,0 +1,5 @@
+../Core/Src/h3lis331.c:20:26:H3LIS331_WriteRegister	24	static
+../Core/Src/h3lis331.c:50:26:H3LIS331_ReadRegisters	24	static
+../Core/Src/h3lis331.c:95:19:H3LIS331_ReadWhoAmI	16	static
+../Core/Src/h3lis331.c:105:19:H3LIS331_Init	16	static
+../Core/Src/h3lis331.c:136:19:H3LIS331_ReadAccel	32	static

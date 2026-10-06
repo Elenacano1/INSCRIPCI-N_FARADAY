@@ -1,0 +1,4 @@
+../Core/Src/max_m10s.c:32:19:MAX_M10S_Init	8	static
+../Core/Src/max_m10s.c:47:19:MAX_M10S_StartReception	8	static
+../Core/Src/max_m10s.c:61:6:MAX_M10S_ProcessByte	16	static
+../Core/Src/max_m10s.c:127:6:HAL_UART_RxCpltCallback	16	static

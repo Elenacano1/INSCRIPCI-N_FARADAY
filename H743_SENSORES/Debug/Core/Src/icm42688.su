@@ -1,0 +1,6 @@
+../Core/Src/icm42688.c:24:26:ICM42688_WriteRegister	24	static
+../Core/Src/icm42688.c:56:26:ICM42688_ReadRegisters	24	static
+../Core/Src/icm42688.c:96:19:ICM42688_ReadWhoAmI	16	static
+../Core/Src/icm42688.c:106:19:ICM42688_Init	16	static
+../Core/Src/icm42688.c:152:19:ICM42688_ReadAccel	32	static
+../Core/Src/icm42688.c:180:19:ICM42688_ReadGyro	32	static

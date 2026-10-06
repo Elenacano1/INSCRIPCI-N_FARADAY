@@ -1,0 +1,20 @@
+!SESSION 2026-10-02 12:42:00.644 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  C:\Users\elena\OneDrive\Escritorio\CODING\FARADAY\H743_SENSORES\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\Users\elena\OneDrive\Escritorio\CODING\FARADAY\H743_SENSORES\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-10-02 12:42:39.412
+!MESSAGE Log4j2 initialized with config file C:\Users\elena\OneDrive\Escritorio\CODING\FARADAY\H743_SENSORES\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-10-02 12:42:48.993
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-10-02 12:43:28.319
+!MESSAGE Executed PowerShell command powershell.exe -Command "Get-CimInstance -ClassName Win32_SerialPort | Select-Object -ExpandProperty DeviceID":
+
+
+!ENTRY com.st.stm32cube.ide.mpu.remote.serial 1 1 2026-10-02 12:43:28.320
+!MESSAGE port: 
